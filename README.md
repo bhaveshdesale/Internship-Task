@@ -6,7 +6,7 @@ This project showcases a **modern Profile Activity UI** built using **Jetpack Co
 
 ![Profile Screen Screenshot](screenshot.png)
 
-> 📌 *Make sure to add a real screenshot with the filename `screenshot.png` in the root directory of your repository.*
+
 
 ---
 
@@ -25,8 +25,8 @@ This project showcases a **modern Profile Activity UI** built using **Jetpack Co
 
 ## 🚀 Live Demo
 
-[🔗 Live Preview on GitHub Pages (or use GitHub APK link)](https://your-live-link-here.com)  
-> Replace this with your hosted preview or APK download link.
+[🔗 Live Preview on Appetize.io](https://appetize.io/app/b_nkzmpomigzkcegdudkbfyfovdy)  
+
 
 ---
 
@@ -64,5 +64,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Bhavesh Desale](https://github.com/bhaveshdesale)
 
